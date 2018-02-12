@@ -1,2 +1,1 @@
-# C410-17-Exercises
-My solutions to the exercises for CS410-17  (see README)
+These files being my solutions to the exercises for Connor McBride's course on Advanced Functional Programming, which has been kindly made available [here](https://github.com/pigworker/CS410-17). Updated as I finish more exercises!
